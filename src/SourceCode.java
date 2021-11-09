@@ -4,7 +4,7 @@ public class SourceCode {
 
 	public void main (String[] args) {
 		System.out.println("commit on Branch A");
-		System.out.println("Commit on branch B" +" V1 ON B" +"EDIT");	
+		System.out.println("Commit on branch B" +" V2 ON B" +"EDIT");	
 	}
 
 
